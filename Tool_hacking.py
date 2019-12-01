@@ -20,6 +20,6 @@ for i in range (len(out)):
       time.sleep(0.001)
 " ".join(file)
 #print(file)
-#nitish_email("hacktheworld378@gmail.com","7004969879nitish",out)
-os.system ("start explorer C:\\Users\\Nitish sharma\\Desktop\\Tool_hacking.py")
+#nitish_email("put your email-id","put your password",out)
+os.system ("start explorer path of the program")
 
